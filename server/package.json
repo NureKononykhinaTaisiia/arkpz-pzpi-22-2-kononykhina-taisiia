@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_RentJoy_Ecommerce"
+    "url": "https://github.com/NureKononykhinaTaisiia/hobby-rent-hub"
   },
-  "author": "Hasan | https://hasan-py.github.io",
+  "author": "Taisiia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_RentJoy_Ecommerce/issues"
+    "url": "https://github.com/NureKononykhinaTaisiia/hobby-rent-hub/issues"
   },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_RentJoy_Ecommerce#readme",
+  "homepage": "https://github.com/NureKononykhinaTaisiia/hobby-rent-hub#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
